@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Asset Detail**
+- 🔭 I’m currently working on **Aavin - IDMS**
 
-- 🌱 I’m currently learning **Springbook**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **Spring MVC, Java,SQL, etc.,**
 
